@@ -1,0 +1,7 @@
+		expA	expB	expC
+		expA_	expB_	expC_
+		moJunk1	moJunk2	moJunk3
+junk1	orf1	1.0		3.0
+junk2	orf2	1.1	2.2	not a number
+junk3	orf3		2.2	3.3
+junk4	orf4	1.4	2.4	3.4
