@@ -3,7 +3,7 @@
 The GRAM (Genetic RegulAtory Modules) algorithm identifies modules, collections of genes
 that share common regulators, as well as expression profiles. 
 
-<b>Citation</b>:  <a href="http://cgs.csail.mit.edu/pubs/nature-biotech-11-03.pdf"> Computational discovery of gene modules and regulatory networks</a><br>.Bar-Joseph, Z., Gerber, G. K., Lee, T. I., Rinaldi, N. J., Yoo, J. Y., Robert, F., Gordon, D. B., Fraenkel, E., Jaakkola, T. S., Young, R. A., Gfford D. K. Nature Biotechnology, 21, pp. 1337-1342 November, 2003.
+<b>Citation</b>:  <a href="http://cgs.csail.mit.edu/pubs/nature-biotech-11-03.pdf"> Computational discovery of gene modules and regulatory networks</a>.  Bar-Joseph, Z., Gerber, G. K., Lee, T. I., Rinaldi, N. J., Yoo, J. Y., Robert, F., Gordon, D. B., Fraenkel, E., Jaakkola, T. S., Young, R. A., Gfford D. K. Nature Biotechnology, 21, pp. 1337-1342 November, 2003.
 
 <b>Abstract</b>We
 describe an algorithm for discovering regulatory networks 
